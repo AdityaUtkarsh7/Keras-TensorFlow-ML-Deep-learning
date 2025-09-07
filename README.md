@@ -1,1 +1,1 @@
-# Tensorflow
+The project employs a Convolutional Neural Network (CNN) architecture. CNNs are especially well-suited for image classification tasks because they can automatically learn spatial hierarchies of features from raw pixel data. The model is trained using a supervised learning approach, where it's fed thousands of labeled images to learn the underlying patterns of each digit.
