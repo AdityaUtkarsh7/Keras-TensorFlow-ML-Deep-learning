@@ -1,1 +1,3 @@
+Machine Learning & Deep Learning Projects
+
 Welcome to my repository of Machine Learning and Deep Learning projects built using TensorFlow, Keras, and core ML tools. This collection showcases applied examples in supervised learning, computer vision, deep neural networks, and more.
